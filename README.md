@@ -46,25 +46,26 @@ Game resets automatically after completion.
 
 ⚙️ Installation & Setup
 
-Clone the repository:
+# Clone the repository:
 
 git clone https://github.com/your-username/assembly-endgame.git
 
-Navigate to the project folder:
+# Navigate to the project folder:
 
 cd assembly-endgame
 
-Install dependencies:
+# Install dependencies:
 
 npm install
 
-Run the development server:
+# Run the development server:
 
 npm run dev
 
 📸 Screenshots
 
 <p align="center">
+  <img src="./screenshot/Assemblyendgame .png" width="45%" />
   <img src="./screenshot/Win.png" width="45%" />
 </p>
 
